@@ -1,5 +1,9 @@
 Test
+<<<<<<< HEAD
 Test3
+=======
+Test2
+>>>>>>> 584cf7a1f66d0e323e0d0812bcab259097cd94ce
 {
 	"title": 
 		"Programming Basics with C# - Free Coding Book with Video Lessons",
